@@ -8,6 +8,12 @@ A word count app that allows users to count the number of words in a text input 
 * Python
 * Streamlit
 
+![apImage](https://user-images.githubusercontent.com/55107467/236949822-1e30357b-8233-459e-b3b0-36f39c927079.png)
+
+![appImage](https://user-images.githubusercontent.com/55107467/236949820-339ae58c-aa0e-4052-8637-a271899e62db.png)
+
+
+
 # How to Use
 ## To run the app, first clone the repository:
     git clone https://github.com/actuaryhafeez/StreamlitWordCounter.git
