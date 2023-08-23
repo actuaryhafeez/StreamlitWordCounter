@@ -25,7 +25,7 @@ A word count app that allows users to count the number of words in a text input 
 
 ## Project Structure 
 
-    A-web-scraping-project-for-books.toscrape.com-using-Python-and-BeautifulSoup/
+    Word Count App/
         ├── data/
         ├── app.py/
         ├── requirements.txt/
